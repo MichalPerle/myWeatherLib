@@ -9,7 +9,6 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-
 public class MyWeather {
     private Coord coord;
     private List<Weather> weather;
